@@ -1,6 +1,8 @@
 {
-    "Ad 1": {
-       "Link": "https://cheater.ninja",
-       "Enabled": true
+    "AdApproval": {
+       "AdLink1": "https://cheater.ninja",
+       "AdLink2": "https://cheater.net",
+       "EnableAdLink1": true,
+       "EnableAdLink2": true
     }
 }
