@@ -1,8 +1,6 @@
 {
     "AdApproval": {
        "AdLink1": "cheater.ninja",
-       "AdLink2": "cheater.net",
-       "EnableAdLink1": true,
-       "EnableAdLink2": true
+        "AdLink1Timer": 40,
     }
 }
